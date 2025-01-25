@@ -1,2 +1,3 @@
-# nuber-game-errors
- A javascript number guessing game which has errots for me to rectify and get the game playing as intended. This code is copied from MDN github repository.
+# Nuber Game Errors
+ A javascript number guessing game which has errrs for me to rectify and get the game playing as intended.
+ This code is copied from MDN [github repository.](https://github.com/mdn/learning-area/blob/main/javascript/introduction-to-js-1/troubleshooting/number-game-errors.html)
